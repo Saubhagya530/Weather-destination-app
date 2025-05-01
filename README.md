@@ -15,10 +15,7 @@ This project allows users to check real-time weather conditions in different des
 - HTML & CSS (if web-based)
 - Weather API (e.g., OpenWeatherMap)
   
-## 🖼️ Screenshots
 
-*Include screenshots or a short demo GIF of the app here.*
 
-## 📁 Folder Structure
 
 
